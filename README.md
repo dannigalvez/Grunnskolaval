@@ -5,7 +5,7 @@ Grunnskólaval vor 2024 - Forritun og vefsmíði
 Kynning á forritun með forritunarmálinu [Python](https://www.python.org/)  M.a. verður verður í:
 - Uppsetning á þróunarumhverfi
 - Prentun á skjá
-- inntak frá notanda
+- Inntak frá notanda
 - Breytur, breytuheiti og notkun breyta
 - Reikniaðgerðir / Slembi (Random) virkni
 - Skilyrðissetningar (if-else)
