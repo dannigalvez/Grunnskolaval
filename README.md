@@ -11,6 +11,7 @@ Kynning á forritun með forritunarmálinu [Python](https://www.python.org/)  M.
 - Skilyrðissetningar (if-else)
 - Lykkjur / slaufur (for og while)
 - Samsuða af öllu hér fyrir ofan
+- [Námsefni á Wiki](https://github.com/dannigalvez/Grunnskolaval/wiki/N%C3%A1msefni)
   
 ## Vefsmíði
 Kynning á HTML og CSS  til vefsíðugerðar og Open Source hugbúnaði.  M.a verður farið í:
