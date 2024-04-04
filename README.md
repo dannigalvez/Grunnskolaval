@@ -18,3 +18,4 @@ Kynning á HTML og CSS  til vefsíðugerðar og Open Source hugbúnaði.  M.a ve
 - Þróunarumhverfi [Visual Studio Code](https://code.visualstudio.com/download) og [WIX](https://wix.com/) 
 - Grunn í HTML og css
 - Uppsetning á vefsíðu í WIX
+- [Námsefni á Wiki og æfingaverkefni](https://github.com/dannigalvez/Grunnskolaval/wiki/N%C3%A1msefni)
