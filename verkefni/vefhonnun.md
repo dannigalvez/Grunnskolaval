@@ -9,4 +9,8 @@ Notum [Wix.com](http://wix.com) til að hanna vefsíðu sem inniheldur efni teng
 - Annað sem ykkur dettur í hug
   - Kort ( google maps eða ja.is )
   - MP3 spilari / Spotify spilari
-- Einversstaðar á vefsíðu þurfa að vera upplýsingar um höfund síðu eins t.d nafn, skóli ...
+- Einversstaðar á vefsíðu þurfa að vera upplýsingar um höfund síðu eins t.d
+  - nafn
+  - skóli höfundar
+  - ...
+  
