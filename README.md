@@ -19,3 +19,9 @@ Kynning á HTML og CSS  til vefsíðugerðar og Open Source hugbúnaði.  M.a ve
 - Grunn í HTML og css
 - Uppsetning á vefsíðu í WIX
 - [Námsefni á Wiki og æfingaverkefni](https://github.com/dannigalvez/Grunnskolaval/wiki/N%C3%A1msefni)
+
+## Automation
+Kynning á Automation og ýmsum skemmtilegum möguleikum þar.  Dæmi um Automation þjónustur:
+- [IFTTT](https://ifttt.com/)
+- [Make](https://www.make.com/en)
+- [Zapier](https://zapier.com/)
